@@ -1,0 +1,125 @@
+
+/* 
+    Created on : 16 Sep 2016, 11:53:09 AM
+    Author     : 210115408
+*/
+
+#container{
+    width:800px;
+    height:auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+#header{
+    height: 200px;
+    background-color: aquamarine;
+}
+
+#socialMenu{
+    width:200px;
+    height:80px;
+    float:left;
+    background-color: aqua;
+}
+
+#mainMenu{
+    width:600px;
+    float:left;
+    height: 80px;
+    background-color:  #CCC;
+}
+
+#leftPane{
+    width: 150px;
+    height: auto;
+    clear: both;
+    float: left;
+}
+
+#middlePane{
+    width: 325px;
+    height: auto;
+    float: left;
+    padding-bottom: 20px;
+}
+
+#rightPane{
+    width: 325px;
+    height: auto;
+    float: right;
+    padding-bottom: 20px;
+}
+
+#footer{
+    height: 80px;
+    background-color: silver;
+    clear: both;
+}
+
+#reportView{
+    width:650px; height:auto;
+    padding-top: 10px;
+    float: left;
+}
+
+#msgbox{
+    alignment-adjust: middle;
+     font-size: 25px;
+    font-family:  arial narrow;
+}
+
+#button{
+    width:400px; height: 80px;
+    background-color: #46d7c9;
+    font-family: arial;
+    font-size:35px;
+    text-decoration: none;
+}
+
+
+.formHome{
+    font-size: 20px;
+    font-family:  arial;
+}
+
+
+
+.thumbnail{
+    background-color: azure;
+    width:150px;height: 150px;
+    border-style: solid;
+    border-color:  #CCC;
+    float: left;
+}
+
+.navigate{
+    background-image: url("../img/interface/menuButton.jpg");
+    width:140px;height: 50px;
+    float: left;
+    text-align: center;
+    font-family: arial; font-size: 20px;
+
+}
+
+
+a{
+    text-decoration: none;
+    font-family:  arial;
+}
+
+h3{
+    font-size: 14px;
+    font-family:  arial;
+    font-weight:  lighter;
+}
+
+h4{
+     font-size: 20px;
+      font-family:  arial;
+}
+
+img{
+    border: none;
+}

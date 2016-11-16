@@ -1,0 +1,119 @@
+
+/* 
+    Created on : 16 Sep 2016, 11:53:09 AM
+    Author     : 210115408
+*/
+
+#container{
+    width:320px;
+}
+
+#header{
+    height: 40px;
+    background-image: none;
+}
+
+#mainMenu{
+    width:300px;
+}
+
+
+#leftPane{
+    width: 320px;
+    color: white;
+    background-color: black;
+}
+
+#middlePane{
+    width: 320px;
+}
+
+#rightPane{
+    width: 320px;
+}
+
+#footer{
+    width:320px;height: 30px;
+    
+}
+
+#reportView{
+    width:320px; font-size: 11px;
+    clear: both;
+    float: left;
+}
+
+#msgbox{
+    alignment-adjust: middle;
+     font-size: 25px;
+    font-family:  arial narrow;
+}
+
+#button{
+    width:320px; height: 80px;
+    background-color: #46d7c9;
+    font-family: arial;
+    font-size:35px;
+    text-decoration: none;
+}
+
+#buttonSml{
+    width:250px; height: 40px;
+    padding-left: 20px;
+    background-color: #46d7c9;
+    font-family: courier;
+    font-size:25px;
+    text-decoration: none;
+}
+
+#column{
+    width: 150px;
+    height: auto;
+    float: left;
+}
+
+.formHome{
+    font-size: 20px;
+    font-family:  arial;
+}
+
+
+
+.thumbnail{
+    background-color: azure;
+    width:150px;height: 150px;
+    border-style: solid;
+    border-color:  #CCC;
+    float: left;
+}
+
+.navigate{
+    background-image: none;
+    width:150px;height: 50px;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+}
+
+body{
+    font-family: TimeBurner;
+}
+
+a{
+    color: #cccccc;
+}
+
+h3{
+    font-size: 14px;
+    font-family:  TimeBurner;
+    font-weight:  bolder;
+}
+
+h4{
+     font-size: 20px;
+      font-family:  TimeBurner;
+}
+
+img{
+    border: none;
+}
